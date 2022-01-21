@@ -1,0 +1,94 @@
+body{
+  background-color: hsl(217, 54%, 11%);
+  font-family: 'Outfit', sans-serif;
+  font-size: 18px;
+}
+
+.card{
+  background-color: hsl(216, 50%, 16%);
+  border: none;
+  padding: 20px;
+  position: absolute;
+  color: white;
+  height: 510px;
+  width: 300px;
+  top: 50%;
+  left: 50%;
+  margin-left: -150px;
+  margin-top: -255px;
+  border-radius: 12px;
+  display: inline-block;
+}
+
+.main-image{
+  height: 260px;
+  margin-bottom: 20px;
+  border-radius: 12px;
+}
+
+.hr{
+  color: hsl(215, 32%, 27%);
+}
+
+.heading{
+  font-weight: bold;
+}
+
+.icon{
+  width: 18px;
+  height: 18px;
+  display: inline-block;
+  margin-bottom: 5px;
+}
+
+.icon-left{
+  width: 14px;
+  height: 17px;
+  margin-bottom: 2px;
+}
+
+.inline{
+  display: inline-block;
+}
+
+.right{
+  position: absolute;
+  right: 20px;
+  bottom: 60px;
+}
+
+.left{
+  position: absolute;
+  left: 20px;
+  bottom: 60px;
+}
+
+.middle{
+  height: 130px;
+  margin-bottom: 30px;
+}
+
+.footer{
+  margin-top: -5px;
+  font-size: 15px;
+}
+
+.footer-image{
+  width: 25px;
+  height: 25px;
+  border: solid;
+  border-color: white;
+  border-width: thin;
+  border-radius: 100%;
+  margin-right: 10px;
+}
+
+.soft-blue{
+  color: hsl(215, 51%, 70%);
+  font-size: 15px;
+}
+
+.cyan{
+  color: hsl(178, 100%, 50%);
+  font-size: 15px;
+}
